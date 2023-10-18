@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @efecaliskan
 - 👀 I’m interested in everything related data.
-- 🌱 I’m currently learning big data concepts.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working as Data Engineer with multicloud expertise.
 - 📫 How to reach me via mail (efe.caliskan2131@hotmail.com) or linkedin (https://www.linkedin.com/in/efe-caliskan/)
 
 <!---
